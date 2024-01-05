@@ -89,6 +89,8 @@ If you want to update to a newer release, all you have to do is download the new
         2. Click `Advanced` in the bottom-left, then `Go to Quickstart (unsafe)`.
         3. Click `Allow`.
         4. Click `Allow` again. A file called `token.pickle` will be saved to avoid future prompts.
+
+    1. If you experience issues attempting to get your account authenticated (e.g. the "Something went wrong" errpr), ensure you are running the Authentication Flow through Google Chrome. Other browsers such as Firefox may pose issues with cookies and prevent you from getting the program authenticated. Google Chrome works best in this instance.
         
 ## Build It Yourself
 
